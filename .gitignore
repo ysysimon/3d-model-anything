@@ -8,6 +8,10 @@ xcuserdata/
 __pycache__/
 *.pyc
 .env*
+
+# Local Chinese translations
+*.zh.md
+*.ch.md
 data/captures-in/
 data/captures/
 data/recordings/
